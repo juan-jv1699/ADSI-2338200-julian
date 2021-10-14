@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "condicionales_dobles/1.0.0": {
+        "runtime": {
+          "condicionales_dobles.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "condicionales_dobles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

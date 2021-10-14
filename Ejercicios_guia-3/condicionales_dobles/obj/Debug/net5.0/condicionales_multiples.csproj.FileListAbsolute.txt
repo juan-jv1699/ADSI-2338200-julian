@@ -1,0 +1,16 @@
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_multiples\bin\Debug\net5.0\condicionales_multiples.exe
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_multiples\bin\Debug\net5.0\condicionales_multiples.deps.json
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_multiples\bin\Debug\net5.0\condicionales_multiples.runtimeconfig.json
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_multiples\bin\Debug\net5.0\condicionales_multiples.runtimeconfig.dev.json
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_multiples\bin\Debug\net5.0\condicionales_multiples.dll
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_multiples\bin\Debug\net5.0\ref\condicionales_multiples.dll
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_multiples\bin\Debug\net5.0\condicionales_multiples.pdb
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_multiples\obj\Debug\net5.0\condicionales_multiples.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_multiples\obj\Debug\net5.0\condicionales_multiples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_multiples\obj\Debug\net5.0\condicionales_multiples.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_multiples\obj\Debug\net5.0\condicionales_multiples.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_multiples\obj\Debug\net5.0\condicionales_multiples.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_multiples\obj\Debug\net5.0\condicionales_multiples.dll
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_multiples\obj\Debug\net5.0\ref\condicionales_multiples.dll
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_multiples\obj\Debug\net5.0\condicionales_multiples.pdb
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_multiples\obj\Debug\net5.0\condicionales_multiples.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_anidados\bin\Debug\net5.0\condicionales_anidados.exe
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_anidados\bin\Debug\net5.0\condicionales_anidados.deps.json
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_anidados\bin\Debug\net5.0\condicionales_anidados.runtimeconfig.json
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_anidados\bin\Debug\net5.0\condicionales_anidados.runtimeconfig.dev.json
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_anidados\bin\Debug\net5.0\condicionales_anidados.dll
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_anidados\bin\Debug\net5.0\ref\condicionales_anidados.dll
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_anidados\bin\Debug\net5.0\condicionales_anidados.pdb
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_anidados\obj\Debug\net5.0\condicionales_anidados.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_anidados\obj\Debug\net5.0\condicionales_anidados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_anidados\obj\Debug\net5.0\condicionales_anidados.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_anidados\obj\Debug\net5.0\condicionales_anidados.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_anidados\obj\Debug\net5.0\condicionales_anidados.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_anidados\obj\Debug\net5.0\condicionales_anidados.dll
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_anidados\obj\Debug\net5.0\ref\condicionales_anidados.dll
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_anidados\obj\Debug\net5.0\condicionales_anidados.pdb
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_anidados\obj\Debug\net5.0\condicionales_anidados.genruntimeconfig.cache

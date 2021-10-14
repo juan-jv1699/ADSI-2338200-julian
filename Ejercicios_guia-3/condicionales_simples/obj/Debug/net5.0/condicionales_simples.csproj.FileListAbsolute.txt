@@ -1,0 +1,16 @@
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_simples\bin\Debug\net5.0\condicionales_simples.exe
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_simples\bin\Debug\net5.0\condicionales_simples.deps.json
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_simples\bin\Debug\net5.0\condicionales_simples.runtimeconfig.json
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_simples\bin\Debug\net5.0\condicionales_simples.runtimeconfig.dev.json
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_simples\bin\Debug\net5.0\condicionales_simples.dll
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_simples\bin\Debug\net5.0\ref\condicionales_simples.dll
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_simples\bin\Debug\net5.0\condicionales_simples.pdb
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_simples\obj\Debug\net5.0\condicionales_simples.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_simples\obj\Debug\net5.0\condicionales_simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_simples\obj\Debug\net5.0\condicionales_simples.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_simples\obj\Debug\net5.0\condicionales_simples.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_simples\obj\Debug\net5.0\condicionales_simples.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_simples\obj\Debug\net5.0\condicionales_simples.dll
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_simples\obj\Debug\net5.0\ref\condicionales_simples.dll
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_simples\obj\Debug\net5.0\condicionales_simples.pdb
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_simples\obj\Debug\net5.0\condicionales_simples.genruntimeconfig.cache

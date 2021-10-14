@@ -1,0 +1,16 @@
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_multiples\obj\Debug\net5.0\condicionales_dobles.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_multiples\obj\Debug\net5.0\condicionales_dobles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_multiples\obj\Debug\net5.0\condicionales_dobles.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_multiples\obj\Debug\net5.0\condicionales_dobles.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_multiples\obj\Debug\net5.0\condicionales_dobles.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_multiples\bin\Debug\net5.0\condicionales_dobles.exe
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_multiples\bin\Debug\net5.0\condicionales_dobles.deps.json
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_multiples\bin\Debug\net5.0\condicionales_dobles.runtimeconfig.json
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_multiples\bin\Debug\net5.0\condicionales_dobles.runtimeconfig.dev.json
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_multiples\bin\Debug\net5.0\condicionales_dobles.dll
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_multiples\bin\Debug\net5.0\ref\condicionales_dobles.dll
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_multiples\bin\Debug\net5.0\condicionales_dobles.pdb
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_multiples\obj\Debug\net5.0\condicionales_dobles.dll
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_multiples\obj\Debug\net5.0\ref\condicionales_dobles.dll
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_multiples\obj\Debug\net5.0\condicionales_dobles.pdb
+C:\Users\USUARIO\source\repos\Ejercicios_guia-3\condicionales_multiples\obj\Debug\net5.0\condicionales_dobles.genruntimeconfig.cache
