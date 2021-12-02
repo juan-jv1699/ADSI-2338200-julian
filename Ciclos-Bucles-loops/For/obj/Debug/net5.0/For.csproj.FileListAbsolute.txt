@@ -1,0 +1,16 @@
+C:\Users\USUARIO\source\repos\Ciclos-Bucles-loops\For\bin\Debug\net5.0\For.exe
+C:\Users\USUARIO\source\repos\Ciclos-Bucles-loops\For\bin\Debug\net5.0\For.deps.json
+C:\Users\USUARIO\source\repos\Ciclos-Bucles-loops\For\bin\Debug\net5.0\For.runtimeconfig.json
+C:\Users\USUARIO\source\repos\Ciclos-Bucles-loops\For\bin\Debug\net5.0\For.runtimeconfig.dev.json
+C:\Users\USUARIO\source\repos\Ciclos-Bucles-loops\For\bin\Debug\net5.0\For.dll
+C:\Users\USUARIO\source\repos\Ciclos-Bucles-loops\For\bin\Debug\net5.0\ref\For.dll
+C:\Users\USUARIO\source\repos\Ciclos-Bucles-loops\For\bin\Debug\net5.0\For.pdb
+C:\Users\USUARIO\source\repos\Ciclos-Bucles-loops\For\obj\Debug\net5.0\For.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\Ciclos-Bucles-loops\For\obj\Debug\net5.0\For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\Ciclos-Bucles-loops\For\obj\Debug\net5.0\For.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\Ciclos-Bucles-loops\For\obj\Debug\net5.0\For.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\Ciclos-Bucles-loops\For\obj\Debug\net5.0\For.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Ciclos-Bucles-loops\For\obj\Debug\net5.0\For.dll
+C:\Users\USUARIO\source\repos\Ciclos-Bucles-loops\For\obj\Debug\net5.0\ref\For.dll
+C:\Users\USUARIO\source\repos\Ciclos-Bucles-loops\For\obj\Debug\net5.0\For.pdb
+C:\Users\USUARIO\source\repos\Ciclos-Bucles-loops\For\obj\Debug\net5.0\For.genruntimeconfig.cache

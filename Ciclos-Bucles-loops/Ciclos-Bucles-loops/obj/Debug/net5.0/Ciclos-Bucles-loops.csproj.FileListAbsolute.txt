@@ -1,0 +1,16 @@
+C:\Users\USUARIO\source\repos\Ciclos-Bucles-loops\Ciclos-Bucles-loops\obj\Debug\net5.0\Ciclos-Bucles-loops.csproj.AssemblyReference.cache
+C:\Users\USUARIO\source\repos\Ciclos-Bucles-loops\Ciclos-Bucles-loops\obj\Debug\net5.0\Ciclos-Bucles-loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\source\repos\Ciclos-Bucles-loops\Ciclos-Bucles-loops\obj\Debug\net5.0\Ciclos-Bucles-loops.AssemblyInfoInputs.cache
+C:\Users\USUARIO\source\repos\Ciclos-Bucles-loops\Ciclos-Bucles-loops\obj\Debug\net5.0\Ciclos-Bucles-loops.AssemblyInfo.cs
+C:\Users\USUARIO\source\repos\Ciclos-Bucles-loops\Ciclos-Bucles-loops\obj\Debug\net5.0\Ciclos-Bucles-loops.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\source\repos\Ciclos-Bucles-loops\Ciclos-Bucles-loops\bin\Debug\net5.0\Ciclos-Bucles-loops.exe
+C:\Users\USUARIO\source\repos\Ciclos-Bucles-loops\Ciclos-Bucles-loops\bin\Debug\net5.0\Ciclos-Bucles-loops.deps.json
+C:\Users\USUARIO\source\repos\Ciclos-Bucles-loops\Ciclos-Bucles-loops\bin\Debug\net5.0\Ciclos-Bucles-loops.runtimeconfig.json
+C:\Users\USUARIO\source\repos\Ciclos-Bucles-loops\Ciclos-Bucles-loops\bin\Debug\net5.0\Ciclos-Bucles-loops.runtimeconfig.dev.json
+C:\Users\USUARIO\source\repos\Ciclos-Bucles-loops\Ciclos-Bucles-loops\bin\Debug\net5.0\Ciclos-Bucles-loops.dll
+C:\Users\USUARIO\source\repos\Ciclos-Bucles-loops\Ciclos-Bucles-loops\bin\Debug\net5.0\ref\Ciclos-Bucles-loops.dll
+C:\Users\USUARIO\source\repos\Ciclos-Bucles-loops\Ciclos-Bucles-loops\bin\Debug\net5.0\Ciclos-Bucles-loops.pdb
+C:\Users\USUARIO\source\repos\Ciclos-Bucles-loops\Ciclos-Bucles-loops\obj\Debug\net5.0\Ciclos-Bucles-loops.dll
+C:\Users\USUARIO\source\repos\Ciclos-Bucles-loops\Ciclos-Bucles-loops\obj\Debug\net5.0\ref\Ciclos-Bucles-loops.dll
+C:\Users\USUARIO\source\repos\Ciclos-Bucles-loops\Ciclos-Bucles-loops\obj\Debug\net5.0\Ciclos-Bucles-loops.pdb
+C:\Users\USUARIO\source\repos\Ciclos-Bucles-loops\Ciclos-Bucles-loops\obj\Debug\net5.0\Ciclos-Bucles-loops.genruntimeconfig.cache
